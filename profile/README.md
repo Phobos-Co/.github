@@ -16,30 +16,15 @@
 
 ---
 
-## 📊 Organization Activity Overview
+## 📊 GitHub Stats
 
-While GitHub does not provide a single contribution graph for organizations, here are some ways to explore activity across our repositories:
+### Organization Overview
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Phobos-Co&show_icons=true&theme=radical" alt="Phobos Labs GitHub Stats" />
+</p>
 
-### 🔍 Repository Contribution Graphs
-You can view detailed contribution graphs for each of our repositories:
-- **[Project Nexus](https://github.com/Phobos-Co/project-nexus/graphs/contributors)**  
-- **[SmartWeb Builder](https://github.com/Phobos-Co/smartweb-builder/graphs/contributors)**  
-- **[DataVision AI](https://github.com/Phobos-Co/datavision-ai/graphs/contributors)**  
-- **[TaskMaster](https://github.com/Phobos-Co/taskmaster/graphs/contributors)**  
-- **[E-commerce Platform](https://github.com/Phobos-Co/ecommerce-platform/graphs/contributors)**  
-
-### 📈 Organization Insights
-GitHub Organizations provide insights into repository activity. You can explore:
-- Total commits
-- Pull requests
-- Issues resolved
-- Top contributors per repository
-
----
-
-## 📊 Repository Highlights
-
-Here are some of our top repositories with detailed stats:
+### Top Repositories
+Below are some of our top repositories with contribution statistics:
 
 1. **[Project Nexus](https://github.com/Phobos-Co/project-nexus)**  
    ![Project Nexus Stats](https://github-readme-stats.vercel.app/api/pin/?username=Phobos-Co&repo=project-nexus&theme=radical)
@@ -66,15 +51,15 @@ Here are some of our top repositories with detailed stats:
 
 ---
 
-## 📈 Contribution Graphs (Per Repository)
+## 📈 Contribution Graph (Individual Repositories)
 
-GitHub allows us to display contribution graphs for individual repositories. Click the links below to view contributions made by our team members:
+For individual contributions, you can view specific repository graphs:
 
-- [Project Nexus Contribution Graph](https://github.com/Phobos-Co/project-nexus/graphs/contributors)
-- [SmartWeb Builder Contribution Graph](https://github.com/Phobos-Co/smartweb-builder/graphs/contributors)
-- [DataVision AI Contribution Graph](https://github.com/Phobos-Co/datavision-ai/graphs/contributors)
-- [TaskMaster Contribution Graph](https://github.com/Phobos-Co/taskmaster/graphs/contributors)
-- [E-commerce Platform Contribution Graph](https://github.com/Phobos-Co/ecommerce-platform/graphs/contributors)
+- **Project Nexus**: [Contribution Graph](https://github.com/Phobos-Co/project-nexus/graphs/contributors)
+- **SmartWeb Builder**: [Contribution Graph](https://github.com/Phobos-Co/smartweb-builder/graphs/contributors)
+- **DataVision AI**: [Contribution Graph](https://github.com/Phobos-Co/datavision-ai/graphs/contributors)
+- **TaskMaster**: [Contribution Graph](https://github.com/Phobos-Co/taskmaster/graphs/contributors)
+- **E-commerce Platform**: [Contribution Graph](https://github.com/Phobos-Co/ecommerce-platform/graphs/contributors)
 
 ---
 
@@ -85,6 +70,10 @@ GitHub allows us to display contribution graphs for individual repositories. Cli
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 </p>
@@ -93,9 +82,32 @@ GitHub allows us to display contribution graphs for individual repositories. Cli
 
 ## 🌟 Featured Projects
 
-1. **[Project Nexus](https://github.com/Phobos-Co/project-nexus)** - A scalable platform designed for enterprise resource management.
-2. **[SmartWeb Builder](https://github.com/Phobos-Co/smartweb-builder)** - A no-code solution for building responsive websites tailored to small businesses.
-3. **[DataVision AI](https://github.com/Phobos-Co/datavision-ai)** - An analytics tool that transforms raw data into actionable insights.
+1. **[Project Nexus](https://github.com/Phobos-Co/project-nexus)**  
+   A scalable platform designed for enterprise resource management.
+
+2. **[SmartWeb Builder](https://github.com/Phobos-Co/smartweb-builder)**  
+   A no-code solution for building responsive websites tailored to small businesses.
+
+3. **[DataVision AI](https://github.com/Phobos-Co/datavision-ai)**  
+   An analytics tool that transforms raw data into actionable insights.
+
+4. **[TaskMaster](https://github.com/Phobos-Co/taskmaster)**  
+   A productivity application that helps teams manage tasks efficiently.
+
+5. **[E-commerce Platform](https://github.com/Phobos-Co/ecommerce-platform)**  
+   A fully-featured e-commerce solution with payment integration and inventory management.
+
+---
+
+## 📈 Our Approach
+
+At **Phobos Labs™**, we follow a structured approach to ensure project success:
+
+1. **Discovery Phase:** Collaborating with clients to understand their objectives and challenges.
+2. **Design & Prototyping:** Crafting wireframes and prototypes for visualization.
+3. **Agile Development:** Iterative development with continuous feedback from clients.
+4. **Testing & Quality Assurance:** Rigorous testing processes to ensure reliability.
+5. **Deployment & Support:** Seamless deployment with ongoing maintenance and support.
 
 ---
 
