@@ -10,8 +10,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Based%20in-Austin%2C%20TX-blue?style=for-the-badge" alt="Based in Austin, TX" />
-  <img src="https://img.shields.io/badge/Founded-2020-orange?style=for-the-badge" alt="Founded in 2020" />
-  <img src="https://img.shields.io/badge/Clients-500%2B-green?style=for-the-badge" alt="500+ Clients" />
+  <img src="https://img.shields.io/badge/Founded-1847-orange?style=for-the-badge" alt="Founded in 1847" />
+  <img src="https://img.shields.io/badge/Clients-150,000%2B-green?style=for-the-badge" alt="150,000+ Clients" />
 </p>
 
 ---
