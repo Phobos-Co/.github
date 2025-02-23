@@ -19,11 +19,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Phobos-Co&show_icons=true&theme=radical" alt="Phobos Labs GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Phobos-Labs&show_icons=true&theme=radical" alt="Phobos Labs GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Phobos-Co&theme=radical" alt="Phobos Labs GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Phobos-Labs&theme=radical" alt="Phobos Labs GitHub Streak" />
 </p>
 
 ---
@@ -31,7 +31,7 @@
 ## 🔝 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phobos-Co&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phobos-Labs&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
