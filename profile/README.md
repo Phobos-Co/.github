@@ -18,28 +18,13 @@
 
 ## 📊 GitHub Stats
 
-### Organization Overview
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Phobos-Co&show_icons=true&theme=radical" alt="Phobos Labs GitHub Stats" />
 </p>
 
-### Top Repositories
-Below are some of our top repositories with contribution statistics:
-
-1. **[Project Nexus](https://github.com/Phobos-Co/project-nexus)**  
-   ![Project Nexus Stats](https://github-readme-stats.vercel.app/api/pin/?username=Phobos-Co&repo=project-nexus&theme=radical)
-
-2. **[SmartWeb Builder](https://github.com/Phobos-Co/smartweb-builder)**  
-   ![SmartWeb Builder Stats](https://github-readme-stats.vercel.app/api/pin/?username=Phobos-Co&repo=smartweb-builder&theme=radical)
-
-3. **[DataVision AI](https://github.com/Phobos-Co/datavision-ai)**  
-   ![DataVision AI Stats](https://github-readme-stats.vercel.app/api/pin/?username=Phobos-Co&repo=datavision-ai&theme=radical)
-
-4. **[TaskMaster](https://github.com/Phobos-Co/taskmaster)**  
-   ![TaskMaster Stats](https://github-readme-stats.vercel.app/api/pin/?username=Phobos-Co&repo=taskmaster&theme=radical)
-
-5. **[E-commerce Platform](https://github.com/Phobos-Co/ecommerce-platform)**  
-   ![E-commerce Platform Stats](https://github-readme-stats.vercel.app/api/pin/?username=Phobos-Co&repo=ecommerce-platform&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Phobos-Co&theme=radical" alt="Phobos Labs GitHub Streak" />
+</p>
 
 ---
 
@@ -51,15 +36,11 @@ Below are some of our top repositories with contribution statistics:
 
 ---
 
-## 📈 Contribution Graph (Individual Repositories)
+## 📈 Contribution Graph
 
-For individual contributions, you can view specific repository graphs:
-
-- **Project Nexus**: [Contribution Graph](https://github.com/Phobos-Co/project-nexus/graphs/contributors)
-- **SmartWeb Builder**: [Contribution Graph](https://github.com/Phobos-Co/smartweb-builder/graphs/contributors)
-- **DataVision AI**: [Contribution Graph](https://github.com/Phobos-Co/datavision-ai/graphs/contributors)
-- **TaskMaster**: [Contribution Graph](https://github.com/Phobos-Co/taskmaster/graphs/contributors)
-- **E-commerce Platform**: [Contribution Graph](https://github.com/Phobos-Co/ecommerce-platform/graphs/contributors)
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Phobos-Co&theme=xcode" alt="Contribution Graph" />
+</p>
 
 ---
 
