@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Based%20in-Austin%2C%20TX-red?style=for-the-badge" alt="Based in Austin, TX" />
-  <img src="https://img.shields.io/badge/Founded-1847-green?style=for-the-badge" alt="Founded in 1847" />
-  <img src="https://img.shields.io/badge/Clients-150,000%2B-blue?style=for-the-badge" alt="150,000+ Clients" />
+  <img src="https://img.shields.io/badge/Based%20in-Austin%2C%20TX-darkred?style=for-the-badge" alt="Based in Austin, TX" />
+  <img src="https://img.shields.io/badge/Founded-1847-darkgreen?style=for-the-badge" alt="Founded in 1847" />
+  <img src="https://img.shields.io/badge/Clients-150,000%2B-darkblue?style=for-the-badge" alt="150,000+ Clients" />
 </p>
 
 ---
