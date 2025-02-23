@@ -36,14 +36,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Phobos-Co&theme=xcode" alt="Contribution Graph" />
-</p>
-
----
-
 ## 🛠️ Technologies We Use
 
 <p align="center">
@@ -71,24 +63,6 @@
 
 3. **[DataVision AI](https://github.com/Phobos-Co/datavision-ai)**  
    An analytics tool that transforms raw data into actionable insights.
-
-4. **[TaskMaster](https://github.com/Phobos-Co/taskmaster)**  
-   A productivity application that helps teams manage tasks efficiently.
-
-5. **[E-commerce Platform](https://github.com/Phobos-Co/ecommerce-platform)**  
-   A fully-featured e-commerce solution with payment integration and inventory management.
-
----
-
-## 📈 Our Approach
-
-At **Phobos Labs™**, we follow a structured approach to ensure project success:
-
-1. **Discovery Phase:** Collaborating with clients to understand their objectives and challenges.
-2. **Design & Prototyping:** Crafting wireframes and prototypes for visualization.
-3. **Agile Development:** Iterative development with continuous feedback from clients.
-4. **Testing & Quality Assurance:** Rigorous testing processes to ensure reliability.
-5. **Deployment & Support:** Seamless deployment with ongoing maintenance and support.
 
 ---
 
